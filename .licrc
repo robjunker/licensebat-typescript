@@ -9,7 +9,7 @@ accepted = ["MIT", "MSC", "BSD"]
 ignored = ["amdefine", "ignored_dep2"]
 [behavior]
 # this flag will always execute the check no matter if a dependency file has changed.
-always_run = false
+always_run = true
 do_not_block = false
 
 
